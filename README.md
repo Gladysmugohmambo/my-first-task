@@ -1,6 +1,6 @@
 # my-first-task
 project task
-Repository for django two factor demonstration
+Repository for django my firsttask
 
 Clone this repository to your machine
 
